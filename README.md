@@ -10,6 +10,9 @@ To have code we can use for hands on exercises. We are also using this to see ho
 ##Conflict on Master
 This secion will be different on the conflictbranch
 
+##Method
+How will we resolve this conflict, since the base now has a conflict in it?
+
 
 ## Welcome to GitHub Pages
 
